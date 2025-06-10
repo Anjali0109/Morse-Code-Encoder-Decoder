@@ -49,6 +49,6 @@ Also install the optional speech recognition dependency:
 ```
 To Run:
 ```bash
- python morse_encoder_gui.py
+ python morse_gui_advanced.py
  
 ```
